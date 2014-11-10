@@ -45,7 +45,7 @@
 #####################################################
 ##                                                  ##
 PRONAME="HK"              # Project name.            ##
-VERSION="1.2"             # Version number or name.   ##
+VERSION="1.3"             # Version number or name.   ##
 #                                                      ##
 #               New name = new main folder              ##
 #############################################################
